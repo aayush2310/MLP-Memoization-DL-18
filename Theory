@@ -1,0 +1,2 @@
+While calculating the derivatives,we can store those derivatives (memoization) because they are needed in the next layer calculation of derivative.
+Backpropagation=>Chain differentiation+Memoization  which is used by libraries like keras and tensorflow.
